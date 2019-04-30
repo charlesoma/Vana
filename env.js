@@ -1,0 +1,12 @@
+export const dialogflowConfig = {  
+    type: "service_account",
+    project_id: "vana-bot",
+    private_key_id: "657d01d6b131f39e72fbcf435041dd42bf2379c9",
+    private_key: "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDN6r2Y9WDrlUpk\n8o/SSMRWzDrmcllDcH/H3t2J7EXa0uE1ceoU/GVcl0DLuIfGbelWti2rnwz5c8zO\n8svmZL4tP6O0LHrfpaWfAyDLGMN00zFNJ7iFSlfSU/R/e3UCeDzmt3OKcXurKonV\nKc9pyD2EIgVdBatIRmqsIMAwvLFGF5gpqhOYp18xX/imtWQEsKQZ9YLpWkx4APUx\nG3xRXy13f8z9cTTzxM8pgIlfLmAnpDRovcBABNpZw0ikP5ffiojn3dfCCLetRt69\nfxCuNrqDImGMbG8UUFVX6hWnZcsjahL/kMXoL1vmev30ZxYJRL1PMLAztIKw3Xcp\nuA4dgbGLAgMBAAECggEAAgs674o7+IqmTuMzd0Bepofna8MlzKwQsKCvLT/Jn7bp\nIlkrnCK3NNiRfZQq0NblcoVjZakx/UXfegxh5rsIQjW3/8FTROYFg1MKH8nyorW3\n7w6eX8BRp9ZKfntwuWINJLMcc/rVYekNri54jxG8PpQB3p8ASLreMzAuCC3PSqVL\nvxxxssNOtHfaIqCYxsyNVXj8IQoAhbjRDjbTLkNXmb8ScVeuG1x0ZpNokHtlpuwZ\n1C+5AZTSnBDYYgRrsssjoS/adBd5iAN5jBYp7ffsn/4RHGVwZwhYPxv4lo0AQBCW\nbJ7d8aytcUat3yB8Cq206s9WsaO7A84ZiHGWKqSJZQKBgQDu6Kt2I86meOHj/jPA\ncoJ0iQTIBo8gk5B5f24etPCbqtJG9Eqx30MBNsGDJLMOG8NjaCv/jqE7lPD4lbFh\nzURv9oItV6VPTZu+wi9JoPffMT3KkG5i3RpGu3ageapHaNf4OGe+msZui1LSsMDn\nZU2QN2cwr7BzM4hXhBvs6r54HQKBgQDcpd0Kx69pgo36fuVwpezOJ4rDJBH8L3kI\nLUwBSl586ChudO7YdnmiQL4unBh9A4OlAlHsQbCt9tG+GznodYK7vc+CS7hdW+1p\nvzaVnCjIEat8POhJB37AtSibWADbRC2O/PYKCnWr2W+8XH++z1q0dx7lQVcJkons\nE1yHbekvxwKBgEhnr39QftKpFBza76hFjA/xbseIZVxEHKcV3bPktn8XGD90ziZ2\nOYJmq+Mo/jMqat73tU3wViEOlLFh/K5dXX5pQS6ov2r3ZFo908MGy9iSvd1kRHAl\n/k6thdhAx0B5H+sUfSyhD7507xb3hp8abpVklRuGQ33Ggm2zlhsJUcxpAoGAHYiF\n4Z+AtxqmblT12PIclCtuw1fcoGiqRpHpjnKp2wYoA0Dbh1W0SidoTUzPakxCHqAE\n3x6by20x/cQfKCIycXaig8omzzgyuujBIZ1ZSA41adetL7k1Gg4ldUV+N9sUTgNF\n22oy/eGItymaX6vZdDZNiFoKkFlw5Ixi4i2v/JkCgYEA3eOsV1CS5FhhUF4Pwr7G\nCdKWHCX+tNEMsa7TCv63f+NISKQVhlMjziWPdDqPIACvEuKUjX8kT/I5fkpHhNNW\nX3YKhcxHLKYF4P/U+DrfHMpwXZt05yPhgX/saFEt9zGnX8mv7HxpFveJnxew3ybm\n96bFI0Zm9ffW8jy+PGaeM7s=\n-----END PRIVATE KEY-----\n",
+    client_email: "dialogflow-rjklfv@vana-bot.iam.gserviceaccount.com",
+    client_id: "108527997389659250879",
+    auth_uri: "https://accounts.google.com/o/oauth2/auth",
+    token_uri: "https://oauth2.googleapis.com/token",
+    auth_provider_x509_cert_url: "https://www.googleapis.com/oauth2/v1/certs",
+    client_x509_cert_url: "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-rjklfv%40vana-bot.iam.gserviceaccount.com"
+  };
